@@ -48,4 +48,5 @@ function changeLanguage(lang){
     if (lang = 'en'){
     window.location.assign("index.html");
     }
+    
 }
