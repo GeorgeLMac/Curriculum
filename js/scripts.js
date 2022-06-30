@@ -34,7 +34,7 @@ location.hash = en;
 {
     language = document.getElementById("select_lang").value;
     if (language == 'br'){
-        window.location.assign("indexbr.html");
+        window.location.assign("pt-br.html");
         }
     if (language == 'en'){
             window.location.assign("index.html");
