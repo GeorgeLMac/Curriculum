@@ -43,9 +43,9 @@ location.hash = en;
 
 function changeLanguage(lang){
     if (lang = 'br'){
-    window.location.assign("indexbr.html");
+    window.location.assign("pt-br.html");
     }
     if (lang = 'en'){
-    window.location.assign("index.html");
+    window.location.assign("en.html");
     }
 }
